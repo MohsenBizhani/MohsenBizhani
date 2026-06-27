@@ -77,14 +77,6 @@ A CLI tool that generates secure, customizable passwords with built-in strength 
 
 ---
 
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohsenBizhani&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
 ## 📚 Currently Learning
 
 - Fine-tuning and deploying open-source LLMs
@@ -94,14 +86,6 @@ A CLI tool that generates secure, customizable passwords with built-in strength 
 
 ---
 
-## ⏱️ Weekly Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-> *Set up [WakaTime](https://wakatime.com) to see live coding stats here*
-
----
 
 ## 📫 Let's Talk
 
@@ -115,18 +99,6 @@ I'm actively looking for **remote roles**, **freelance projects**, and **visa-sp
 
 ---
 
-<!-- SNAKE ANIMATION -->
-<!-- After setting up the GitHub Action (see instructions), replace the line below with the snake embed code -->
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohsenBizhani/MohsenBizhani/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohsenBizhani/MohsenBizhani/output/github-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/MohsenBizhani/MohsenBizhani/output/github-snake.svg" />
-  </picture>
-</p>
-
----
 
 <p align="center">
   <i>"The best way to predict the future is to build it."</i>
