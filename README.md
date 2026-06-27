@@ -64,6 +64,13 @@ A CLI tool that generates secure, customizable passwords with built-in strength 
 
 ---
 
+### 📉 [linreg](https://github.com/MohsenBizhani/linreg)
+Linear Regression from scratch — no ML libraries required. Pure Python implementation.
+
+`Python` `Machine Learning` `Gradient Descent` `Mathematics` `Data Analysis`
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
